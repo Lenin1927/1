@@ -1,0 +1,9 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int h=56, a=8, b=5, d;
+d = h/(a-b);
+System.out.println("Через "+ d +" дней улитка доползет до вершины");
+}
+} 
