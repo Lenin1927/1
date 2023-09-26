@@ -1,0 +1,8 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int x=17235;
+System.out.println(a%-10);
+}
+}
